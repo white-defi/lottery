@@ -3,7 +3,7 @@
 
 Video: soon
 
-# We will take 1/5 of your profit or ~1500 USD at once
+# Pricing: 1/5 of your profit as a fee or ~1500 USD at once
 As an administrator, you have two options to manage the fees associated with the lottery service:
 
 1) Service fee: You have the option to set a service fee for each round of the lottery. The service fee is transferred to your wallet address, and a portion of this fee, equal to 1/5 of the service fee, is deducted as the "onout.org" fee. This fee can be removed by purchasing the premium version of the lottery service.
