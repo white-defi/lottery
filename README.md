@@ -15,6 +15,7 @@ As an administrator, you have two options to manage the fees associated with the
 2. go to settings (check the addreass github/YOURNAME/lottery, not https://github.com/appsource/lottery/!) and enable Github pages
 ![alt text](howto.png "Title")
 3. add your "custom domain" (don't forget to change DNS of your domain. <a href="https://www.youtube.com/watch?v=EX4w9hsduNA" target="_blank">video tutorial</a>)
+4. open your domain (https://yourdomain.com/) and follow the installation master
 
 
 To add a private chain please contact https://t.me/onoutsupportbot or email support@onout.org (read more https://support.onout.org/hc/1331700057/32/addnewnetwork?category_id=8 )
