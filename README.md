@@ -1,7 +1,9 @@
 # Lottery creation tool
 (EVM) Lottery White-label at your own domain without coding skills. 2 CLICK INSTALLATION, JUST FORK AND ADD DOMAIN
 
-Video: soon
+![image](https://user-images.githubusercontent.com/2914674/219584277-8dfdc7f3-f118-41bb-9d62-1f77a47051a6.png)
+
+Video: https://www.youtube.com/watch?v=2uoRozFB31M&list=PLLtijyRvdwnYLjAdHtCthK3vRXf1CHpij&index=2
 
 # Pricing: 1/5 of your profit as a fee or ~1500 USD at once
 As an administrator, you have two options to manage the fees associated with the lottery service:
